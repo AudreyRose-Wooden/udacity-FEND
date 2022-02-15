@@ -2,6 +2,6 @@
 Front-End Web Development Fundamentals
 
 
-##Includes:
+## Includes:
 Notes
 Animal Trading Card
