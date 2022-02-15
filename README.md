@@ -3,5 +3,5 @@ Front-End Web Development Fundamentals
 
 
 ## Includes:
-Notes
-Animal Trading Card
+1. Notes - HTML
+2. Animal Trading Card - HTML/CSS
