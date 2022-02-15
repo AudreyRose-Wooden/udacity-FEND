@@ -1,0 +1,45 @@
+ul{
+  list-style-type: none;
+  padding-left: 0;
+}
+
+li{
+  text-align: left;
+  padding: 1px;
+}
+
+span{
+  font-weight: bold;
+}
+
+.container{
+  border: 1px solid #eab676;
+  padding: 0px 10px 10px 10px;
+  width: 305px;
+  box-shadow: 4px 4px 2px lightgrey;
+  font-family: Marcellus, serif;
+  font-size: 14px;
+}
+
+.animalName{
+  border: 0px solid black;
+  padding-bottom: 2px;
+}
+
+.animalImage{
+  border: 0px solid black;
+  width: 300px;
+  padding-bottom: 10px;
+}
+
+.facts{
+  border: 1px solid #eab676;
+  background-color: #eab676;
+  width: 280px;
+  padding: 5px 10px 5px 10px;
+}
+
+#Interesting{
+  font-style: italic;
+  color: white;
+}
